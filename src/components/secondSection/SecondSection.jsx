@@ -4,13 +4,13 @@ import pictireInSecondBlock from "../secondSection/pictireInSecondBlock.png";
 const SecondSection = () => {
   return (
     <div className="secondContainer">
-      <a className="description">VIDEO TOOLS</a>
+      <p className="description">VIDEO TOOLS</p>
       <p className="title">Introducing Green Screen</p>
-      <a className="descriptionText">
+      <p className="descriptionText">
         A professional grade tool for cutting objects out of videos with
         <a className="boldText">just one click</a>. All from inside your
         browser.
-      </a>
+      </p>
       <a className="secondDescriptionText">
         Say goodbye to clumsy plug-ins and expensive software suites.
       </a>

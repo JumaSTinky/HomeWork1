@@ -1,5 +1,5 @@
 import "./SecondSectionFooter.css";
-import arrowIcon from "../secondSectionFooter/arrowIcon.png";
+import arrowIcon from "../secondSectionFooter/ArrowIcon.png";
 
 const SecondSectionFooter = () => {
   return (
@@ -9,6 +9,8 @@ const SecondSectionFooter = () => {
         The first tool for professional rotoscoping on the web — and also the
         fastest.
       </a>
+      console.log();
+      
       <img src={arrowIcon} className="arrowIcon2" />
       <a className="textofPath2">
         Forget downloading plugins for decades-old software.
