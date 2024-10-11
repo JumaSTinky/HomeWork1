@@ -1,0 +1,93 @@
+.secondContainer {
+  width: 1440px;
+  height: 1088px;
+  background-color: rgba(255, 206, 0, 1);
+  margin-top: 200px;
+  display: flex;
+}
+
+.description {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  margin-left: 25px;
+  display: flex;
+  margin-top: 80px;
+}
+
+.title {
+  font-family: Roboto;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 64px;
+  text-align: left;
+  width: 403px;
+  height: 128px;
+  top: -7px;
+  display: flex;
+  margin-top: 200px;
+  margin-left: -120px;
+}
+
+.boldText {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: left;
+}
+
+.descriptionText {
+  width: 399px;
+  height: 84px;
+  top: 10px;
+  left: 6px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  margin-top: 430px;
+  margin-left: -395px;
+}
+
+.secondDescriptionText {
+  width: 304px;
+  height: 56px;
+  top: 115px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  margin-top: 550px;
+  margin-left: -400px;
+}
+
+.changeColorButton {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: left;
+  width: 193px;
+  height: 36px;
+  border-radius: 25px;
+  display: inline-block;
+  margin-top: 750px;
+  margin-left: -300px;
+}
+
+.howToRepairVideoPicture {
+  width: 872px;
+  height: 496px;
+  top: -11px;
+  left: 6px;
+  display: flex;
+  margin-top: 200px;
+  margin-left: 280px;
+}
+
+

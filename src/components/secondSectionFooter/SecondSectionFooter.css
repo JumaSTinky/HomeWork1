@@ -1,0 +1,79 @@
+.arrowIcon1 {
+  display: flex;
+  margin-top: -153px;
+  margin-left: 40px;
+}
+
+.textOfPath1 {
+  width: 304px;
+  height: 56px;
+  top: 115px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  display: flex;
+  margin-top: -15px;
+  margin-left: 60px;
+}
+
+.arrowIcon2 {
+  display: flex;
+  margin-top: -50px;
+  margin-left: 430px;
+}
+
+.textofPath2 {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  width: 259px;
+  height: 56px;
+  top: 3px;
+  display: flex;
+  margin-left: 452px;
+  margin-top: -15px;
+}
+
+.arrowIcon3 {
+  display: flex;
+  margin-top: -50px;
+  margin-left: 750px;
+}
+
+.textofPath3 {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  width: 288px;
+  height: 56px;
+  top: 3px;
+  display: flex;
+  margin-top: -15px;
+  margin-left: 775px;
+}
+
+.arrowIcon4 {
+  display: flex;
+  margin-top: -50px;
+  margin-left: 1105px;
+}
+
+.textofPath4 {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  width: 267px;
+  height: 84px;
+  top: 3px;
+  display: flex;
+  margin-top: -15px;
+  margin-left: 1130px;
+}

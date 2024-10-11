@@ -1,0 +1,90 @@
+.sectionsFootersText {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  margin-left: 25px;
+  display: flex;
+  margin-top: 100px;
+}
+
+
+
+.companyIcon1 {
+  width: 66.96px;
+  height: 32.29px;
+  top: 25px;
+  left: 37.34px;
+  display: flex;
+  margin-left: 100px;
+  margin-top: 120px;
+}
+
+.companyIcon2 {
+  display: flex;
+  margin-top: -25px;
+  margin-left: 300px;
+}
+
+.companyIcon3 {
+  display: flex;
+  margin-top: -20px;
+  margin-left: 325px;
+}
+
+.companyIcon4 {
+  display: flex;
+  margin-top: -18px;
+  margin-left: 340px;
+}
+
+.companyIcon5 {
+  display: flex;
+  margin-top: -18px;
+  margin-left: 355px;
+}
+
+.companyIcon6 {
+  display: flex;
+  margin-top: -35px;
+  margin-left: 373px;
+}
+
+.companyIcon7 {
+  display: flex;
+  margin-top: -17px;
+  margin-left: 377px;
+}
+
+.companyIcon8 {
+  display: flex;
+  margin-top: -70px;
+  margin-left: 500px;
+}
+
+.companyIcon9 {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  margin-top: -75px;
+  margin-left: 780px;
+}
+
+.companyIcon10 {
+  display: flex;
+  margin-top: -50px;
+  margin-left: 980px;
+}
+
+.companyIcon11 {
+  display: flex;
+  margin-top: -30px;
+  margin-left: 1015px;
+}
+
+.companyIcon12 {
+  display: flex;
+  margin-top: -30px;
+  margin-left: 1230px;
+}

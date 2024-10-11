@@ -1,0 +1,350 @@
+.footersContainer {
+  width: 1440px;
+  height: 904px;
+  background-color: #473ff4;
+  display: flex;
+}
+
+.BigArrowIcon {
+  width: 129px;
+  height: 95px;
+  display: flex;
+  margin-top: 100px;
+  margin-left: 70px;
+}
+
+.topicOfFooter1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 120px;
+  font-weight: 400;
+  line-height: 120px;
+  text-align: left;
+  color: #ffffff;
+  width: 637px;
+  height: 120px;
+  top: -13px;
+  display: flex;
+  margin-top: 70px;
+  margin-left: 20px;
+}
+
+.topicOfFooter2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 120px;
+  font-weight: 400;
+  line-height: 120px;
+  text-align: left;
+  color: #ffffff;
+  width: 247px;
+  height: 120px;
+  top: 107px;
+  display: flex;
+  margin-top: 200px;
+  margin-left: -630px;
+}
+
+.textIcon {
+  width: 120px;
+  height: 26px;
+  top: 4px;
+  padding: 0px 0px 0.64px 0px;
+  display: flex;
+  margin-left: -410px;
+  margin-top: 550px;
+}
+
+.descriptionOfFooter1 {
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 84px;
+  height: 25px;
+  color: #ffffff;
+  display: flex;
+  margin-top: 545px;
+  margin-left: 200px;
+}
+
+.descriptionOfFooter2 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 112px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 600px;
+  margin-left: -85px;
+}
+
+.descriptionOfFooter3 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 149px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 620px;
+  margin-left: -111px;
+}
+.descriptionOfFooter4 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 192px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 640px;
+  margin-left: -148px;
+}
+.descriptionOfFooter5 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 152px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 660px;
+  margin-left: -193px;
+}
+.descriptionOfFooter6 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 67px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 680px;
+  margin-left: -153px;
+}
+.descriptionOfFooter7 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 124px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 700px;
+  margin-left: -68px;
+}
+
+.descriptionOfFooter8 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 103px;
+  height: 25px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 545px;
+  margin-left: 190px;
+}
+
+.descriptionOfFooter9 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 85px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 600px;
+  margin-left: -103px;
+}
+
+.descriptionOfFooter10 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 37px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 620px;
+  margin-left: -85px;
+}
+
+.descriptionOfFooter11 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 111px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 640px;
+  margin-left: -38px;
+}
+
+.descriptionOfFooter12 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 111px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 660px;
+  margin-left: -113px;
+}
+
+.descriptionOfFooter13 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 111px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 680px;
+  margin-left: -110px;
+}
+
+.descriptionOfFooter14 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 111px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 700px;
+  margin-left: -110px;
+}
+
+.descriptionOfFooter15 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 111px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 720px;
+  margin-left: -110px;
+}
+
+.descriptionOfFooter16 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 111px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 740px;
+  margin-left: -110px;
+}
+
+.descriptionOfFooter17 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  width: 111px;
+  height: 25px;
+  top: -1px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 830px;
+  margin-left: -1050px;
+}
+
+.descriptionOfFooter18 {
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 129px;
+  height: 24px;
+  top: -2px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 833px;
+  margin-left: 210px;
+}
+
+.descriptionOfFooter19 {
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 162px;
+  height: 24px;
+  top: -2px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 833px;
+  margin-left: 20px;
+}
+
+.descriptionOfFooter20 {
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 162px;
+  height: 24px;
+  top: -2px;
+  display: flex;
+  color: #ffffff;
+  margin-top: 833px;
+  margin-left: -70px;
+}
