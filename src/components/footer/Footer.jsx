@@ -1,4 +1,4 @@
-import "../footer/footer.css";
+import "./Footer.css";
 import bigArrowIcon from "../footer/bigArrowIcon.png";
 import textIcon from "../footer/text.png";
 
