@@ -1,5 +1,5 @@
 import "./SecondSectionFooter.css";
-import arrowIcon from "../secondSectionFooter/ArrowIcon.png";
+import arrowIcon from "./ArrowIcon.png";
 
 const SecondSectionFooter = () => {
   return (
@@ -10,7 +10,6 @@ const SecondSectionFooter = () => {
         fastest.
       </a>
       console.log();
-      
       <img src={arrowIcon} className="arrowIcon2" />
       <a className="textofPath2">
         Forget downloading plugins for decades-old software.
@@ -20,7 +19,6 @@ const SecondSectionFooter = () => {
         Export full resolution 4K videos for any project.
       </a>
       <img src={arrowIcon} className="arrowIcon4" />
-
       <a className="textofPath4">
         Skip the tutorial and get on with your work. It’s not that complicated.
       </a>

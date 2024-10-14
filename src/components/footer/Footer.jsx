@@ -1,6 +1,6 @@
 import "./Footer.css";
-import bigArrowIcon from "../footer/bigArrowIcon.png";
-import textIcon from "../footer/text.png";
+import bigArrowIcon from "./BigArrowIcon.png";
+import textIcon from "./Text.png";
 
 const Footer = () => {
   return (

@@ -1,5 +1,5 @@
 import "./SectionsFooter.css";
-import companies1 from "../sectionsFooter/companies1.png";
+import companies1 from "../sectionsFooter/icons/companies1.png";
 import companies2 from "../sectionsFooter/icons/companies2.png";
 import companies3 from "../sectionsFooter/icons/companies3.png";
 import companies4 from "../sectionsFooter/icons/companies4.png";

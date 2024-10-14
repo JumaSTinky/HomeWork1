@@ -1,5 +1,5 @@
 import "./Section.css";
-import picture from "../section/picture.png";
+import picture from "./picture.png";
 const Section = () => {
   return (
     <div className="container2">
