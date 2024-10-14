@@ -1,5 +1,5 @@
 import "./SecondSection.css";
-import pictireInSecondBlock from "../secondSection/pictireInSecondBlock.png";
+import pictireInSecondBlock from "./pictireInSecondBlock.png";
 
 const SecondSection = () => {
   return (
